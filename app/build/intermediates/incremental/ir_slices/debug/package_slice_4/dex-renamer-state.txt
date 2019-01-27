@@ -1,0 +1,4 @@
+#Sun Jan 27 20:11:58 CET 2019
+base.0=C\:\\Users\\loren\\Desktop\\DAM\\Programacion multimedia e dispositivos mobiles\\2 evaluacion\\android-fundamentals-starter-apps-v2-master\\SimpleCalc\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex
